@@ -25,8 +25,8 @@ Siga os passos abaixo para rodar a análise no seu computador.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL-DO-SEU-REPOSITORIO-PUBLICO>
-    cd <NOME-DO-SEU-REPOSITORIO>
+    git clone https://github.com/drifer97/LH_CD_VAGNER.git
+    cd LH_CD_VAGNER
     ```
 
 2.  **(Opcional, mas recomendado) Crie um ambiente virtual:**
